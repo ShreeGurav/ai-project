@@ -85,4 +85,5 @@ jobs:
           kubectl apply -f k8s/
           kubectl set image deployment/helpmate-api \
             app="$ACR_LOGIN_SERVER/$IMAGE_NAME:$GITHUB_SHA"
+          kubectl rollout restart deployment/helpmate-api
           kubectl rollout status deployment/helpmate-api --timeout=180s
