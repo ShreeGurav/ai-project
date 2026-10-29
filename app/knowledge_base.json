@@ -1,0 +1,22 @@
+[
+  {
+    "question": "How long does shipping take?",
+    "answer": "Standard shipping usually takes 3–5 business days. Delivery times may vary by destination."
+  },
+  {
+    "question": "Can I return an item?",
+    "answer": "Unused items can be returned within 30 days of delivery. Contact support with your order number to start a return."
+  },
+  {
+    "question": "How do I track my order?",
+    "answer": "Use the tracking link in your shipping confirmation email. If you cannot find it, contact support with your order number."
+  },
+  {
+    "question": "What payment methods do you accept?",
+    "answer": "We accept major credit and debit cards. Your payment options are shown at checkout."
+  },
+  {
+    "question": "How can I contact a human support agent?",
+    "answer": "Email support@example.com with your order number and a short description of the issue. A support agent will follow up."
+  }
+]
